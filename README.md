@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning programming languages 
 - 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me @ tsholanangmolokomme98@gmail.com 
+- 📫 How to reach me @ tsholanangmolokomme1@gmail.com 
 
 <!---
 Tshodi45/Tshodi45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
